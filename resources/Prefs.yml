@@ -29,8 +29,8 @@ MoneyNeededToClaimAPlot: 0
 # NEW: You can enable this option to allow Claiming to cost Money. This is quite useful so you can make the Faction Values system more useful.
 # To disable this option, just put 0. Default: 50000
 PowerGainedPerAlly: 10
-The power which you'll gain per ally. Default: 100.
-MoneyGainedPerAlly: 0
+The power which you'll gain per ally. Default: 10
+MoneyGainedPerAlly: 10
 # The Money which will be gained per ally. Default: 50.
 TheDefaultPowerEveryFactionStartsWith: 0
 # The default faction power you'll have when creating a faction. Default: 0.
