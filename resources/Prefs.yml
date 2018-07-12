@@ -88,7 +88,7 @@ magma: 0
 ghast: 0
 blaze: 0
 empty: 0
-ServerName: "§rVortexPE"
+ServerName: "§rVortexPE§r"
 ## NEW:
 ## The name of the help page you choose. By default, it will be VoidFactionsPE. But you can customise it to whatever you want.
 ## To use color codes, put § then the color. For example: §a would be green. You can add multiple colors to your help page name, by doing: §6Void§bFactions§cPE (As an example)
